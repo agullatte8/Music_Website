@@ -24,3 +24,22 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+
+______________________________________________________________________________________________________________
+bootstrap-player
+================
+
+A Non-Intrusive HTML5 Audio Player Skin For Twitter Bootstrap
+
+Requires:
+
+  * Twitter Bootstrap - http://twitter.github.com/bootstrap/
+  * jQuery - http://jquery.com/
+
+Firefox Support Requires
+
+  * html5slider - https://github.com/fryn/html5slider/
+
+Additional Features When Using
+
+  * Font Awesome - http://fortawesome.github.com/Font-Awesome/
